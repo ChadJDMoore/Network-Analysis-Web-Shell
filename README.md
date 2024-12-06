@@ -10,12 +10,12 @@ Analyze the provided PCAP file to investigate the 'Local to Local Port Scanning'
 
 ### Skills Learned
 
-- Packet Capture Analysis: Learn how to capture and examine network traffic to identify unusual patterns like port scanning.
-- Protocol Dissection: Gain experience in dissecting various network protocols (e.g., TCP, UDP, ICMP) to analyze specific packet details.
-- Traffic Filtering: Practice filtering specific IP addresses, ports, and protocols to focus on the relevant traffic for analysis.
-- Anomaly Detection: Learn how to spot anomalies in traffic patterns, such as unusual frequency or volume of requests.
-- Flow Analysis: Study communication flows between internal systems to detect unauthorized or suspicious interactions.
-- Evidence Collection: Collect and interpret network data to support incident investigation and reporting.
+- **Packet Capture Analysis:** Learn how to capture and examine network traffic to identify unusual patterns like port scanning.
+- **Protocol Dissection:** Gain experience in dissecting various network protocols (e.g., TCP, UDP, ICMP) to analyze specific packet details.
+- **Traffic Filtering:** Practice filtering specific IP addresses, ports, and protocols to focus on the relevant traffic for analysis.
+- **Anomaly Detection:** Learn how to spot anomalies in traffic patterns, such as unusual frequency or volume of requests.
+- **Flow Analysis:** Study communication flows between internal systems to detect unauthorized or suspicious interactions.
+- **Evidence Collection:** Collect and interpret network data to support incident investigation and reporting.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
