@@ -18,11 +18,10 @@ Analyze the provided PCAP file to investigate the 'Local to Local Port Scanning'
 - **Evidence Collection:** Collect and interpret network data to support incident investigation and reporting.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Wireshark for capturing and examining network traffic to investigate the 'Local to Local Port Scanning' alert.
+- Packet Capture File (PCAP) provided for detailed analysis of network communication between internal systems.
+- VirtualBox used as the virtual machine platform to simulate the environment for traffic analysis, ensuring a controlled and isolated space for investigation.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
